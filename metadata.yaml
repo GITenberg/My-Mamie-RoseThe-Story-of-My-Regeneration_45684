@@ -1,0 +1,28 @@
+_repo: My-Mamie-RoseThe-Story-of-My-Regeneration_45684
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45684-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Kildare, Owen
+    alias: Kildare, Owen Frawley
+    birthdate: 1864
+    deathdate: 1911
+    gutenberg_agent_id: '43477'
+    url: http://www.gutenberg.org/2009/agents/43477
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kildare, Owen, 1864-1911'
+- !lcsh 'New York (N.Y.) -- Biography'
+title: 'My Mamie Rose: The Story of My Regeneration'
+url: http://www.gutenberg.org/ebooks/45684
